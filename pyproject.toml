@@ -1,0 +1,13 @@
+[project]
+name = "comfyui-teamorouter"
+description = "ComfyUI node for TeamoRouter: call Claude, GPT, Gemini, DeepSeek, GLM, Kimi and Qwen through one OpenAI-compatible API key, for prompt writing, image captioning and text tasks."
+version = "0.1.0"
+license = { text = "MIT" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/2867297362mjb-sketch/comfyui-teamorouter"
+
+[tool.comfy]
+PublisherId = "teamorouter"
+DisplayName = "TeamoRouter"
